@@ -27,6 +27,7 @@ The timeframe for the data ranges from 2020 to 2024.
 The dataset is composed of the following pairs: 
 
 * AAVE
-* ADA   
+* ADA
+* AGIX   
 
 
