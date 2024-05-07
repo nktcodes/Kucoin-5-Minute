@@ -28,6 +28,7 @@ The dataset is composed of the following pairs:
 
 * AAVE
 * ADA
-* AGIX   
+* AGIX
+* AIOZ   
 
 
