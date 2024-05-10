@@ -31,6 +31,7 @@ The dataset is composed of the following pairs:
 * AGIX
 * AIOZ
 * ALEPH
-* ALGO   
+* ALGO
+* ALPHA   
 
 
