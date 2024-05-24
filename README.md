@@ -45,6 +45,7 @@ The dataset is composed of the following pairs:
 * ARPA
 * AR
 * ASTRA
-* ASTR   
+* ASTR
+* ATA   
 
 
