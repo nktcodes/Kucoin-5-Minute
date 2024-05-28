@@ -49,6 +49,7 @@ The dataset is composed of the following pairs:
 * ATA   
 * ATEM    
 * ATOM
-* AURORA  
+* AURORA
+* AURY  
 
 
