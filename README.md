@@ -51,6 +51,7 @@ The dataset is composed of the following pairs:
 * ATOM
 * AURORA
 * AURY
-* AVA  
+* AVA
+* AVAX  
 
 
