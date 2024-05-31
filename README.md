@@ -53,5 +53,6 @@ The dataset is composed of the following pairs:
 * AURY
 * AVA
 * AVAX  
+* AZERO    
 
 
