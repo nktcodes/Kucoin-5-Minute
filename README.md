@@ -54,5 +54,7 @@ The dataset is composed of the following pairs:
 * AVA
 * AVAX  
 * AZERO    
+* BABYDOGE    
+
 
 
