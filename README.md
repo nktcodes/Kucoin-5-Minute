@@ -63,7 +63,8 @@ The dataset is composed of the following pairs:
 * BCH    
 * BCUT    
 * BDX  
-* BEAT      
+* BEAT    
+* BEPRO      
 
 
 
