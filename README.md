@@ -70,7 +70,8 @@ The dataset is composed of the following pairs:
 * BIDP    
 * BIFL    
 * BIIS    
-* BLOK  
+* BLOK
+* BLUR      
 
 
 
