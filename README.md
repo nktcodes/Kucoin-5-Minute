@@ -72,7 +72,8 @@ The dataset is composed of the following pairs:
 * BIIS    
 * BLOK
 * BLUR    
-* BLZ      
+* BLZ    
+* BMX  
 
 
 
