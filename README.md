@@ -73,7 +73,8 @@ The dataset is composed of the following pairs:
 * BLOK
 * BLUR    
 * BLZ    
-* BMX  
+* BMX
+* BNB  
 
 
 
