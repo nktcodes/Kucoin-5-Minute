@@ -22,12 +22,12 @@ The timeframe for the data ranges from 2020 to 2024.
 * Turnover      
       
 
-# Dataset Pairs    
+# Dataset    
 
-The dataset is composed of the following pairs: 
+The dataset is composed of the following: 
 
 * AAVE
-* ADA
+* ADA 
 * AGIX
 * AIOZ
 * ALEPH
@@ -76,6 +76,7 @@ The dataset is composed of the following pairs:
 * BMX
 * BNB
 * BNC  
+* BOBA    
 
 
 
