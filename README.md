@@ -77,6 +77,7 @@ The dataset is composed of the following:
 * BNB
 * BNC  
 * BOBA    
+* BOB    
 
 
 
