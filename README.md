@@ -80,6 +80,7 @@ The dataset is composed of the following:
 * BOB    
 * BOLT    
 * BONK    
+* BOSON    
 
 
 
