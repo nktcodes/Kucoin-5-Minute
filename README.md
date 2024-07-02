@@ -85,6 +85,8 @@ The dataset is composed of the following:
 * BRWL    
 * BTC     
 * BTT    
+* BURGER    
+
 
 
 
