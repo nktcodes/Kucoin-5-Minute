@@ -86,6 +86,7 @@ The dataset is composed of the following:
 * BTC     
 * BTT    
 * BURGER    
+* CANDY   
 
 
 
