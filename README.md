@@ -88,6 +88,7 @@ The dataset is composed of the following:
 * BURGER    
 * CANDY   
 * CCD    
+* CELO    
 
 
 
