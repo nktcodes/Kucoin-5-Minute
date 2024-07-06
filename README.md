@@ -89,6 +89,7 @@ The dataset is composed of the following:
 * CANDY   
 * CCD    
 * CELO    
+* CERE    
 
 
 
