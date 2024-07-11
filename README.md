@@ -94,6 +94,7 @@ The dataset is composed of the following:
 * CFX    
 * CGPT    
 * CHMB    
+* CHR    
 
 
 
