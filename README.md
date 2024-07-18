@@ -101,6 +101,7 @@ The dataset is composed of the following:
 * CLH    
 * CLV    
 * COMBO    
+* COMP   
 
 
 
