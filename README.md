@@ -123,7 +123,8 @@ The dataset is composed of the following:
 * CWS    
 * CYBER    
 * DAG 
-* DAO       
+* DAO    
+* DAPPX       
 
 
 
