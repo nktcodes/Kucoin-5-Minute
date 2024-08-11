@@ -124,7 +124,8 @@ The dataset is composed of the following:
 * CYBER    
 * DAG 
 * DAO    
-* DAPPX       
+* DAPPX    
+* DAR       
 
 
 
