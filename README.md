@@ -125,7 +125,8 @@ The dataset is composed of the following:
 * DAG 
 * DAO    
 * DAPPX    
-* DAR       
+* DAR    
+* DASH       
 
 
 
