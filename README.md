@@ -128,7 +128,8 @@ The dataset is composed of the following:
 * DAR    
 * DASH    
 * DATA    
-* DCK       
+* DCK    
+* DCR      
 
 
 
