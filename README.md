@@ -131,7 +131,8 @@ The dataset is composed of the following:
 * DCK    
 * DCR   
 * DECHAT    
-* DEFI       
+* DEFI    
+* DEGO       
 
 
 
