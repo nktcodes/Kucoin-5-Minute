@@ -134,7 +134,8 @@ The dataset is composed of the following:
 * DEFI    
 * DEGO    
 * DENT    
-* DERC       
+* DERC    
+* DEXE       
 
 
 
