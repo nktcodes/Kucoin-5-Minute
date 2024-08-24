@@ -138,6 +138,7 @@ The dataset is composed of the following:
 * DEXE       
 * DFI    
 * DFYN    
+* DGB    
 
 
 
