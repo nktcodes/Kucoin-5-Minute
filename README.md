@@ -131,17 +131,18 @@ The dataset is composed of the following:
 * DCK    
 * DCR   
 * DECHAT    
-* DEFI    
-* DEGO    
-* DENT    
-* DERC    
-* DEXE       
-* DFI    
-* DFYN    
-* DGB    
-* DIA   
-* DIVI    
-* DMAIL    
+* DEFI
+* DEGO
+* DENT
+* DERC
+* DEXE
+* DFI
+* DFYN
+* DGB
+* DIA
+* DIVI
+* DMAIL
+* DMTR
 
 
 
