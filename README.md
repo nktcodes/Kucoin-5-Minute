@@ -144,6 +144,7 @@ The dataset is composed of the following:
 * DMAIL
 * DMTR
 * DODO    
+* DOGE    
 
 
 
