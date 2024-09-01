@@ -146,6 +146,7 @@ The dataset is composed of the following:
 * DODO    
 * DOGE    
 * DOT    
+* DOVI    
 
 
 
