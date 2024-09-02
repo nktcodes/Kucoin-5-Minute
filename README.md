@@ -147,6 +147,7 @@ The dataset is composed of the following:
 * DOGE    
 * DOT    
 * DOVI    
+* DPET    
 
 
 
