@@ -166,6 +166,7 @@ The dataset is composed of the following:
 * ELON    
 * ENJ    
 * ENS
+* EOS    
 
 
 
