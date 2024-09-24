@@ -169,6 +169,7 @@ The dataset is composed of the following:
 * EOS    
 * EPIK    
 * EPX    
+* EQX    
 
 
 
