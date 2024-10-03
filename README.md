@@ -178,5 +178,6 @@ The dataset is composed of the following:
 * ETH    
 * EUL   
 * EVER    
+* EWT    
 
 
