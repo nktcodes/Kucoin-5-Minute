@@ -187,4 +187,5 @@ The dataset is composed of the following:
 * FIRE    
 * FLAME    
 * FLIP     
+* FLOKI    
 
