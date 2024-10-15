@@ -190,4 +190,5 @@ The dataset is composed of the following:
 * FLOKI    
 * FLOW   
 * FLR    
+* FLUX    
 
