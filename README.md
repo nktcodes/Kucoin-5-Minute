@@ -205,4 +205,5 @@ The dataset is composed of the following:
 * FTT    
 * FXS    
 * GAFI    
+* GALAX    
 
