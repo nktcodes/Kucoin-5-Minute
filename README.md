@@ -234,4 +234,5 @@ The dataset is composed of the following:
 * HAKA    
 * HALO    
 * HAPI    
+* HARD    
 
