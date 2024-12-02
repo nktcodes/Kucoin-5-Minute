@@ -238,4 +238,5 @@ The dataset is composed of the following:
 * HBAR    
 * HBB    
 * HEART    
+* HERO   
 
