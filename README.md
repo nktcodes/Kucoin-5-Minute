@@ -244,5 +244,6 @@ The dataset is composed of the following:
 * HIAZUKI    
 * HIBAKC     
 * HIBAYC    
-* HIBEANZZ    
+* HIBEANZ
+* HIBIRDS    
 
