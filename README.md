@@ -248,4 +248,5 @@ The dataset is composed of the following:
 * HIBIRDS    
 * HICLONEX    
 * HICOOLCATS    
+* HIDOODLES    
 
