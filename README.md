@@ -250,4 +250,5 @@ The dataset is composed of the following:
 * HICOOLCATS    
 * HIDOODLES    
 * HIFIDENZA    
+* HIFI     
 
