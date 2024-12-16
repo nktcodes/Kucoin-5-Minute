@@ -252,4 +252,5 @@ The dataset is composed of the following:
 * HIFIDENZA    
 * HIFI     
 * HIFLUF    
+* HIFRIENDS    
 
