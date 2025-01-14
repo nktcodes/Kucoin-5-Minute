@@ -281,4 +281,5 @@ The dataset is composed of the following:
 * IGU    
 * ILV    
 * IMX    
+* INFRA    
 
