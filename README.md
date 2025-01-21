@@ -288,4 +288,5 @@ The dataset is composed of the following:
 * IOST    
 * IOTA    
 * IOTX    
+* IRL    
 
